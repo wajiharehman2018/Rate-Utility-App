@@ -1,0 +1,8 @@
+C:\Programming Projects\.NET\RateListUtilityApp\RateListUtilityApp\bin\Debug\RateListUtilityApp.exe
+C:\Programming Projects\.NET\RateListUtilityApp\RateListUtilityApp\bin\Debug\RateListUtilityApp.exe.config
+C:\Programming Projects\.NET\RateListUtilityApp\RateListUtilityApp\obj\Debug\RateListUtilityApp.csproj.AssemblyReference.cache
+C:\Programming Projects\.NET\RateListUtilityApp\RateListUtilityApp\obj\Debug\RateListUtilityApp.csproj.SuggestedBindingRedirects.cache
+C:\Programming Projects\.NET\RateListUtilityApp\RateListUtilityApp\obj\Debug\RateListUtilityApp.csproj.CoreCompileInputs.cache
+C:\Programming Projects\.NET\RateListUtilityApp\RateListUtilityApp\obj\Debug\RateListUtilityApp.exe
+C:\Programming Projects\.NET\RateListUtilityApp\RateListUtilityApp\obj\Debug\RateListUtilityApp.pdb
+C:\Programming Projects\.NET\RateListUtilityApp\RateListUtilityApp\bin\Debug\RateListUtilityApp.pdb
